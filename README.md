@@ -6,5 +6,5 @@ Web Phishing Detection
 2) [Empathy Map](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/4de0ad31110b6e470caa7c27a36d2aaed4e572a8/Ideation%20Phase/Web%20Phishing%20Detection%20Empathy%20Map.pdf)
 3) [Brainstorming and Priortization Map](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/4de0ad31110b6e470caa7c27a36d2aaed4e572a8/Ideation%20Phase/Web%20Phising%20Detection%20-%20Brainstorm%20and%20Ideation%20Map.pdf)
 
-#Assignments
+# Assignments
 1) [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/4de0ad31110b6e470caa7c27a36d2aaed4e572a8/Assignments/Assignment_1.ipynb)
