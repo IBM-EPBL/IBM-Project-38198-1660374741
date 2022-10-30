@@ -10,3 +10,10 @@ Web Phishing Detection
 # Project Design Phase - I
 1) [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/56020ac4912f5abcfea07fff3d6101558d4298aa/Pre-Development/Project%20Design%20Phase%20-%20I/Proposed%20Solution.docx.pdf)
 2) [Proposed Solution Fit](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/56020ac4912f5abcfea07fff3d6101558d4298aa/Pre-Development/Project%20Design%20Phase%20-%20I/Proposed%20solution%20fit.pdf)
+3) [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/9030299faedc94e996646b7fc824d8a55af70a2c/Pre-Development/Project%20Design%20Phase%20-%20I/Solution%20Architecture.pdf)
+
+# Project Design Phase - II
+1) [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/9030299faedc94e996646b7fc824d8a55af70a2c/Pre-Development/Project%20Design%20Phase%20-%20II/Customer%20Journey%20Map.pdf)
+2) [Data Flow Diagrams & User Stories](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/9030299faedc94e996646b7fc824d8a55af70a2c/Pre-Development/Project%20Design%20Phase%20-%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.docx.pdf)
+3) [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/9030299faedc94e996646b7fc824d8a55af70a2c/Pre-Development/Project%20Design%20Phase%20-%20II/Solution%20Requirements.pdf)
+4) [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/9030299faedc94e996646b7fc824d8a55af70a2c/Pre-Development/Project%20Design%20Phase%20-%20II/Technology%20Architecture.pdf)
