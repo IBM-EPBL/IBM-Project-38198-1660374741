@@ -9,6 +9,10 @@ Submitted by:
 
 Faculty Mentor: Vani.K
 
+# [Project Report](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/576c1ecc683cada17ad2566cf7b2f8c033671571/Final%20Deliverables/Project%20Report/Web%20Phishing%20Detection%20Report.pdf)
+
+
+
 # Ideation Phase
 1) [Literature Review](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/73d734c68c19c6fe558344ce76174687be7156e4/Ideation%20Phase/Web%20Phishing%20Detection%20-%20Literature%20Review.pdf)
 2) [Empathy Map](https://github.com/IBM-EPBL/IBM-Project-38198-1660374741/blob/4de0ad31110b6e470caa7c27a36d2aaed4e572a8/Ideation%20Phase/Web%20Phishing%20Detection%20Empathy%20Map.pdf)
