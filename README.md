@@ -2,10 +2,10 @@
 Web Phishing Detection
 
 Submitted by:
-Team Leader - Kumaresh.S (Roll no : 19Z327)
-Team Member 1 - A.Kirthic Vishnu (Roll no : 19Z301)
-Team Member 2 - Adharsh.S (Roll no : 19Z302)
-Team Member 3 - Mridula.M (Roll no : 19Z332)
+- Team Leader - Kumaresh.S (Roll no : 19Z327)
+- Team Member 1 - A.Kirthic Vishnu (Roll no : 19Z301)
+- Team Member 2 - Adharsh.S (Roll no : 19Z302)
+- Team Member 3 - Mridula.M (Roll no : 19Z332)
 
 Faculty Mentor: Vani.K
 
